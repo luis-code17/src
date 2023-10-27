@@ -1,0 +1,13 @@
+:host() {
+    display: flex;
+    flex-direction: column;
+}
+
+app-footer {
+    align-self:flex-end;
+
+}
+
+.space {
+    flex-grow: 1;
+}
